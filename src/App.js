@@ -13,7 +13,7 @@ export default class App extends Component {
   // const pageSize = 5  // for functional base component
   pageSize = 5;
 
-  apiKey = process.env.REACT_APP_NEWS_API
+  apiKey = "d815b37b4f0b4ca78eafd1b0a3e0681d"
   state = {
     progress:10
   }
